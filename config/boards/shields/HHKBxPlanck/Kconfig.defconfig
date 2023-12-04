@@ -1,0 +1,5 @@
+if HHKBXPLANCK
+
+config ZMK_KEYBOARD_NAME
+    default "HHKBxPlanck"
+endif
