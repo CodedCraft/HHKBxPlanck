@@ -10,6 +10,7 @@
 		label = "KSCAN";
 
 		diode-direction = "col2row";
+		wakeup-source;
 		/*diode-direction = "row2col";*/
 
 		row-gpios
