@@ -1796,6 +1796,17 @@
 			(uuid "a7406974-0bfb-4541-a15f-0c6c3f928ac9")
 		)
 		(embedded_fonts no)
+		(model "/home/philip/Downloads/Part Studio 1 - Part 1.step"
+			(offset
+				(xyz 2.5 28 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-xp-promicroish:SuperMini_nRF52840_AH_USBup"
 		(layer "F.Cu")
@@ -23848,7 +23859,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C49352235"
+		(property "LCSC" "C41430893"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
